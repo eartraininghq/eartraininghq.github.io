@@ -18,7 +18,7 @@ body,html {
 	background-color: #FFF;
 }
 header {
-    background: #AEC6CF;
+    background: rgb(0, 70, 130);
     padding: 20px 30px;
     max-width: 940px;
     margin: auto;
@@ -74,11 +74,12 @@ main section {
 	
 }
 footer {
-	background: #AEC6CF;
+	background: rgb(0, 70, 130);
 	max-width: 1000px;
 	margin: auto;
 	clear: both;
-	text-align: right;
+    text-align: right;
+    color: rgb(255, 255, 255);
 }
 footer p {
 	padding: 20px;
@@ -99,9 +100,9 @@ aside > div {
     color: #FFF;
 }
 #logo img {
-    width: 50px;
+    width: 250px;
     vertical-align: middle;
-    margin-right: 10px;
+    margin-right: 50px;
 }
 body > section {
     max-width: 1000px;
